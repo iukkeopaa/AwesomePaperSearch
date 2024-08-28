@@ -187,6 +187,8 @@
 > `文献小镇` http://www.sci-hub.ac.cn/
 >
 > `穆斯` http://www.sci-hub.ac.cn/
+>
+> `掌桥科研` https://www.zhangqiaokeyan.com/
 
 
 ## 计算机
@@ -225,3 +227,13 @@
 >  `Ais` https://www.ais.cn/journal
 >
 > `好发表` https://www.haofabiao.com/
+>
+> `古腾堡` https://www.gutenberg.org/
+
+## 写在最后
+
+**工具**仅仅是工具🧰，要想在科研或者学术的路上走的更远更稳，那么就需要我们`沉下心来` `胸怀远志` `脚踏实地` `开拓进取` `守正创新` `发扬艰苦奋斗` `攻坚克难` 
+
+`祝各位在科研的道路上一切顺利` ⛽
+
+**加油** 科研人 💪 🤗 💖
