@@ -50,12 +50,24 @@
 > `BASE` https://base-search.net/
 >
 > `doaj` https://doaj.org/
+>
+> `MedReading` http://www.whgshb.cn/
+>
+> `Connectedpapers` https://www.connectedpapers.com/
+>
+> `researchsquare` https://www.researchsquare.com/
+>
+> `Mojeek` https://www.mojeek.com/
+>
+> `Icpsr` https://www.icpsr.umich.edu/web/pages/index.html
 
 #### 中文
 
 > `百度学术` https://xueshu.baidu.com/
 >
 > `图书馆创世纪` https://librarygenesis.net/zh/
+>
+> `pubscholar` https://pubscholar.cn/
 
 
 #### 综合导航网站
@@ -65,8 +77,21 @@
 > `谷粉导航` https://www.gufen.net/
 >
 > `科研通` https://www.ablesci.com/
-
+>
+> `虫部落` https://www.chongbuluo.com/
+>
+> ` 日光图书馆` http://www.99885.net/
+>
+> `文献部落` http://www.459.org/
+>
+> `大木虫学术导航` http://www.4243.net/
 #### 计算机类
 
 > `Cryptology ePrint Archive ` https://www.gufen.net/
-> 
+
+
+#### 论文呢辅助工具
+
+> ` 影响因子查询` https://www.letpub.com.cn/index.php?page=journalapp&view=search
+>
+> `会议排名` http://www.conferenceranks.com/
