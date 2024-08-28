@@ -104,6 +104,26 @@
 > `爱斯维尔` https://www.sciencedirect.com/
 >
 > `Nature` https://www.nature.com/
+>
+> `Scitepress` https://www.scitepress.org/HomePage.aspx
+>
+> `Theses` https://theses.fr/?domaine=theses
+>
+> `Scielo` https://scielo.org/
+>
+> https://www.dart-europe.org/basic-search.php
+>
+> `机器之心(带代码的论文)` https://paperswithcode.com/
+>
+> `Academic` https://www.academia.edu/
+>
+> `Ebsco` https://www.ebsco.com/
+>
+> `CiteSeerX` https://citeseer.ist.psu.edu/
+>
+> `Scidown`https://www.scidown.cn/
+>
+> `熊猫学术` https://sc.panda985.com/index.html
 
 ## 中文
 
@@ -150,6 +170,23 @@
 >
 > `Scihub` https://www.scihub.net.cn/
 >
+> `小鲸鱼文献` http://9312.net/#/
+>
+> `格桑花学术导航` http://20009.net/
+>
+> `Theses` https://theses.fr/?domaine=theses
+>
+> `Scielo` https://scielo.org/
+>
+> https://www.dart-europe.org/basic-search.php
+>
+> `机器之心(带代码的论文)` https://paperswithcode.com/
+>
+> `霞子学术` https://keyanxiazi.bepass.cn/
+>
+> `文献小镇` http://www.sci-hub.ac.cn/
+>
+> `穆斯` http://www.sci-hub.ac.cn/
 
 
 ## 计算机
@@ -186,3 +223,5 @@
 > `影响因子查询` https://sci.justscience.cn/
 >
 >  `Ais` https://www.ais.cn/journal
+>
+> `好发表` https://www.haofabiao.com/
