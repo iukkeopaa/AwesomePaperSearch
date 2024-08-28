@@ -31,7 +31,7 @@
 
 + [综合导航网站](#综合导航网站)
 
-+ [计算机类(#计算机类)
++ [计算机(#计算机)
 
 + [论文辅助工具](#论文辅助工具)
 
@@ -150,10 +150,9 @@
 >
 > `Scihub` https://www.scihub.net.cn/
 >
-> 
 
 
-## 计算机类
+## 计算机
 
 > `Cryptology ePrint Archive ` https://www.gufen.net/
 >
